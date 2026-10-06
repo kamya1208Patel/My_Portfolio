@@ -35,7 +35,7 @@
 I am a **Java Full Stack Developer** interested in building clean, responsive, and user-friendly web applications. This repository contains my personal portfolio website, created to showcase my professional profile, technical skills, projects, and contact information in one place. The portfolio is a lightweight **frontend website built using HTML, CSS, and JavaScript**, with a focus on responsive design, clean UI, and interactive user experiences.
 
 <div align="center">
-<a href="https://kamya1208Patel.github.io/PortFolio/">
+<a href="https://kamya1208Patel.github.io/My_PortFolio/">
   <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Website-0072ff?style=for-the-badge" alt="Live Portfolio"/>
 </a>
 
